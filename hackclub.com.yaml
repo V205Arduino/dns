@@ -2491,6 +2491,10 @@ wl:
   - ttl: 1
     type: CNAME
     value: wl-hackclub.netlify.com.
+wiki:
+  - ttl: 1
+    type: CNAME
+    value: //undefined fill with nest thingy
 summit:
   - ttl: 1
     type: CNAME
